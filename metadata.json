@@ -1,0 +1,6 @@
+{
+  "name": "Sizzling Grill Sukkur",
+  "description": "Official website for Sizzling Grill restaurant on Military Road, Sukkur, Sindh. Where Every Bite Brings the Heat. Featuring authentic BBQ, Karahi, Handi, Chinese, Steaks, Mocktails, WhatsApp ordering, and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
