@@ -23,7 +23,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenOrder }) => {
       {/* Background Cinematic Food Photography */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_sizzling_bbq_1793573396548.jpg"
+          src="/images/hero_sizzling_bbq.jpg"
           alt="Sizzling Grill smoking BBQ platter with kebabs and chicken tikka"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center scale-105 transition-transform duration-1000 ease-out"

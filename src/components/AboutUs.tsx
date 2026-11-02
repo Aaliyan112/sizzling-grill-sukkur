@@ -18,7 +18,7 @@ export const AboutUs: React.FC = () => {
               {/* Primary Image: Family dining ambience */}
               <div className="relative rounded-xl overflow-hidden shadow-2xl border border-[#F59E0B]/30 bg-[#14151B]">
                 <img
-                  src="/src/assets/images/sizzling_dining_ambience_1793573399565.jpg"
+                  src="/images/sizzling_dining_ambience.jpg"
                   alt="Sizzling Grill family dining hall on Military Road Sukkur"
                   referrerPolicy="no-referrer"
                   className="w-full h-[380px] sm:h-[450px] object-cover hover:scale-105 transition-transform duration-700 ease-out"

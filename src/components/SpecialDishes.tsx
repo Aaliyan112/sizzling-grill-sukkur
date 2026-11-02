@@ -29,7 +29,7 @@ export const SpecialDishes: React.FC<SpecialDishesProps> = ({
         { label: 'Half', price: 1750 },
         { label: 'Full', price: 3200 },
       ],
-      image: '/src/assets/images/hero_sizzling_bbq_1793573396548.jpg',
+      image: '/images/hero_sizzling_bbq.jpg',
       badge: 'Best Seller',
     },
     {
@@ -41,7 +41,7 @@ export const SpecialDishes: React.FC<SpecialDishesProps> = ({
         { label: 'Half', price: 950 },
         { label: 'Full', price: 1750 },
       ],
-      image: '/src/assets/images/signature_chicken_karahi_1793573397354.jpg',
+      image: '/images/signature_chicken_karahi.jpg',
       badge: 'Chef Specialty',
     },
     {
@@ -53,7 +53,7 @@ export const SpecialDishes: React.FC<SpecialDishesProps> = ({
         { label: 'Half', price: 1750 },
         { label: 'Full', price: 3300 },
       ],
-      image: '/src/assets/images/dish_mutton_handi_1793573397509.jpg',
+      image: '/images/dish_mutton_handi.jpg',
       badge: 'Royal Favorite',
     },
     {
@@ -62,7 +62,7 @@ export const SpecialDishes: React.FC<SpecialDishesProps> = ({
       categoryTag: 'Bar & Refreshers',
       description: 'Crisp mountain mint muddled with fresh lemon juice, rock salt, and sparkling ice soda. The ultimate pairing for smoky barbecue.',
       portions: [{ label: 'Standard', price: 260 }],
-      image: '/src/assets/images/refreshing_mocktails_1793573399198.jpg',
+      image: '/images/refreshing_mocktails.jpg',
       badge: 'Summer Chill',
     },
   ];
